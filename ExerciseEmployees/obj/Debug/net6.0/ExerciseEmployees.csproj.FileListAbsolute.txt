@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\bin\Debug\net6.0\ExerciseEmployees.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\bin\Debug\net6.0\ExerciseEmployees.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\bin\Debug\net6.0\ExerciseEmployees.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\bin\Debug\net6.0\ExerciseEmployees.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\bin\Debug\net6.0\ExerciseEmployees.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\refint\ExerciseEmployees.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ExerciseEmployees.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEmployees\ExerciseEmployees\obj\Debug\net6.0\ref\ExerciseEmployees.dll
